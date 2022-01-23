@@ -11,5 +11,16 @@ Upon further analysis of the data, urban type cities also show that they have th
 
 ![Summary Table](Analysis/PyBer_fare_summary_table.png "Figure 2")
 
-This trend indicates a supply and demand situation. With few divers available in rural areas. 
+This trend indicates a supply and demand situation where the average fare per ride and per driver is lower in urban areas than rural due to the total drivers available and the increased demand in urban areas. 
+
 ## Summary
+Based on these results, here are three recommendations for addressing disparities among the city types:
+  
+  1)  Institute a price increase for times when demand is highest in urban areas.
+  2)  Encourage carpool grouping in urban areas to decrease total rides to increase average fare per driver. 
+  3)  Offer discounts for riders in rural areas who use the service regularly.
+
+## Links to Resources
+Original Code: [PyBer_Challenge.ipynb](PyBer_Challenge.ipynb)
+
+Data Sources: [city_data.csv](Resources/city_data.csv), [ride_data.csv](Resources/ride_data.csv)
